@@ -8,4 +8,4 @@ f.close()
 "r " - "read"
 'w ' - 'write'
 'a ' - 'append'
-"'"
+"'"а
